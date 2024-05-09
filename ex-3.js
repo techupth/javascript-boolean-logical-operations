@@ -1,7 +1,9 @@
- // Exercise #3: Code Debugging
- let numberA = 100;
- const numberB = Number("20");
+//Exercise #3: Debugging (Boolean & Logical Operations)
 
- numberA = 10;
+//Start coding here
+const numberA = 100;
+const numberB = "20";
 
- console.log(`Sum: ${numberA + numberB}`);
+numberA = 10;
+
+console.log(`Sum: ${numberA + numberB}`);
